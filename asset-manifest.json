@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.3f5d2907.css",
+    "main.js": "/my-app/static/js/main.9260aede.js",
+    "static/media/blind.png": "/my-app/static/media/blind.60993f4c20b46f3cfd6f.png",
+    "static/media/heroImage.jpeg": "/my-app/static/media/heroImage.4fdb6140b58a4cfa85e5.jpeg",
+    "static/media/twitter.png": "/my-app/static/media/twitter.dab5c337cf01f290600a.png",
+    "static/media/aws.png": "/my-app/static/media/aws.2f8f3d68b23f24e0425e.png",
+    "static/media/gan-vae.jpg": "/my-app/static/media/gan-vae.e6ea92c685b25f2a9b49.jpg",
+    "static/media/gossip.jpg": "/my-app/static/media/gossip.48f7f0c2ea180151a149.jpg",
+    "static/media/jupyter.png": "/my-app/static/media/jupyter.e979c92feec8c52b40c5.png",
+    "static/media/glyph.jpg": "/my-app/static/media/glyph.b5aca43853715283e3e9.jpg",
+    "static/media/mysql.png": "/my-app/static/media/mysql.4fe76d0c8c2cd39a2766.png",
+    "static/media/skincancer.jpg": "/my-app/static/media/skincancer.190eab7d496fb019c474.jpg",
+    "static/media/tensorflow.png": "/my-app/static/media/tensorflow.2e600df8bf7dc40e2886.png",
+    "static/media/keras.png": "/my-app/static/media/keras.4ea7647a51ddb5d1b1ea.png",
+    "static/media/react.png": "/my-app/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/my-app/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/github.png": "/my-app/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/python.png": "/my-app/static/media/python.448fb2a83595fa5c5c8a.png",
+    "static/media/mongodb.png": "/my-app/static/media/mongodb.7a16fc61d457c9e340e2.png",
+    "static/media/html.png": "/my-app/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/my-app/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/my-app/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/my-app/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/my-app/index.html",
+    "main.3f5d2907.css.map": "/my-app/static/css/main.3f5d2907.css.map",
+    "main.9260aede.js.map": "/my-app/static/js/main.9260aede.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f5d2907.css",
+    "static/js/main.9260aede.js"
+  ]
+}
